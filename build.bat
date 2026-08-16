@@ -1,0 +1,1 @@
+@cl -Zi -nologo -GS- *.c -link -incremental:no -noimplib -noexp -nodefaultlib kernel32.lib user32.lib gdi32.lib shell32.lib iphlpapi.lib ws2_32.lib
